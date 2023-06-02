@@ -7,7 +7,7 @@
 * @str: new string to add in the node
 * add_node - adds a new node at the beginning of a linked list
 *
-* Return: return new element address, or return NULL if fail
+* Return: return new element address, or return NULL if failed
 */
 
 list_t *add_node(list_t **head, const char *str)
