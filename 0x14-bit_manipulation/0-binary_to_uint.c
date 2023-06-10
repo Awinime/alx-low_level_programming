@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
+ *  binary_numb_to_uint - binary numb will be converted  to unsigned int
  * @b: string that contains binary numb
-* binary_numb_to_uint - binary numb wii be converted  to unsigned int
 *
  * Return: converted numb
  */

@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * @n: numb to be printed in binary
  * print_binary - prints binary rep  of a decimal numb
+ * @n: numb to be printed in binary
  */
 void print_binary(unsigned long int n)
 {

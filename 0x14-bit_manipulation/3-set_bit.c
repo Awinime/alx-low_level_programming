@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
+ * set_bit - sets a bit at specific index to 1
  * @n: pointer to numb to change
  * @index:  bit index to be set to 1
-* set_bit - sets a bit at specific index to 1
  *
  * Return: return  1 , -1 if fail
  */

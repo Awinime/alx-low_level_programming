@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * @index: index of bit to clear
  * clear_bit -  value of specific bit sets to  0
+ * @index: index of bit to clear
  * @n: pointer to numb to change
 *
  * Return: return 1 for , -1 if fail
